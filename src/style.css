@@ -2,10 +2,10 @@
   margin-bottom: 20px;
 }
 
-div {
+.block {
   margin-bottom: 10px;
 }
 
-fieldset div:last-child {
+.fs-block .block:last-child {
   margin-bottom: 0;
 }
